@@ -32,7 +32,7 @@
 
 ---
 
-### ✅ Week 3 (Optional): Redux + System Design + ML UI (Days 15–21)
+### ✅ Week 3 : Redux + System Design + ML UI (Days 15–21)
 
 **Goal**: Advanced state management, UI architecture, and ML integrations
 
