@@ -29,7 +29,6 @@ This hands-on, fast-paced learning journey is designed to equip you with real-wo
    ```bash
    git clone https://github.com/your-org/intern-training.git
    cd intern-training
-````
 
 2. **Track Your Progress**
 
@@ -40,7 +39,7 @@ This hands-on, fast-paced learning journey is designed to equip you with real-wo
 
    * One folder per project under `/submissions/<your-name>/`
    * Include `README.md`, screenshots, and key scripts
----
+
 
 ## 💡 Tips for Success
 
