@@ -1,1 +1,1 @@
-# intern-training-fullstack
+# Internship Training 
