@@ -6,3 +6,9 @@ scikit-learn
 joblib
 fastapi
 uvicorn
+langchain
+langchain-community
+langchain-core
+python-dotenv
+pydantic
+streamlit
